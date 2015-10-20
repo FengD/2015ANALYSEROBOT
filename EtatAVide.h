@@ -1,0 +1,2 @@
+class EtatAVide : EtatEnRoute {
+};

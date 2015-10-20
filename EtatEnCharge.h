@@ -1,0 +1,2 @@
+class EtatEnCharge : EtatEnRoute {
+};
